@@ -29,4 +29,5 @@ How to play:
  4. Add a profiledata.json to profile data. 
 
  App page:
- ![Screenshot](\screenshots\app-page.jpg)
+<img src="/screenshots/app-page.jpg" alt="My cool logo"/>
+
