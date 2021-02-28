@@ -27,3 +27,6 @@ How to play:
  2. Put a only one point of time schedule (tehere was 2 of them);
  3. Print an extra warning notification about drinking water;
  4. Add a profiledata.json to profile data. 
+
+ App page:
+ ![Screenshot](\screenshots\app-page.jpg)
